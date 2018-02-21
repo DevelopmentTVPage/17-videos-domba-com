@@ -20,6 +20,8 @@
     "id": "83094521",
     "loginId": "1758799",
     "entityType": "1",
+    "sortOrder": "5",
+    "entityIdParent": "66133905",
     "titleTextEncoded": "Classic-Brew-on-the-Ninja-Coffee-Bar",
     "category": "",
     "duration": 248,
@@ -39,7 +41,14 @@
         "quality": ""
     },
     "transcripts": "",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-11-17\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-11-17"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": 0
