@@ -20,6 +20,8 @@
     "id": "83095582",
     "loginId": "1758799",
     "entityType": "1",
+    "sortOrder": "5",
+    "entityIdParent": "83096270",
     "titleTextEncoded": "Cuisinart-Single-Serve-Brewer-SS-5-Demo-Video",
     "category": "",
     "duration": 232,
@@ -37,7 +39,14 @@
         "views": "6621"
     },
     "transcripts": "",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-11-17\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-11-17"
+            }
+        }
+    },
     "tvp_profiles": [
         "18",
         "14"

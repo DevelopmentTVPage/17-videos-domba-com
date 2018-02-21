@@ -20,6 +20,8 @@
     "id": "83095660",
     "loginId": "1758799",
     "entityType": "1",
+    "sortOrder": "0",
+    "entityIdParent": "83096270",
     "titleTextEncoded": "12-Cup-Programmable-Coffeemaker-DCC-500-Demo-Video",
     "category": "",
     "duration": 257,
@@ -37,7 +39,14 @@
         "views": "8005"
     },
     "transcripts": "",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-11-17\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-11-17"
+            }
+        }
+    },
     "tvp_profiles": [
         "18"
     ],

@@ -20,6 +20,8 @@
     "id": "83095641",
     "loginId": "1758799",
     "entityType": "1",
+    "sortOrder": "2",
+    "entityIdParent": "83096270",
     "titleTextEncoded": "Cuisinart-for-Illy-Buona-Tazza-Single-Serve-Espresso-and-Coffee-Machine-EM-400-Infomercial-Video",
     "category": "",
     "duration": 173,
@@ -37,7 +39,13 @@
         "views": "4024"
     },
     "transcripts": "",
-    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2017-11-17\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "engagement_score": {
+                "lastUpdatedDate": "2017-11-17"
+            }
+        }
+    },
     "tvp_profiles": [
         "18"
     ],

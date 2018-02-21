@@ -20,6 +20,8 @@
     "id": "83095590",
     "loginId": "1758799",
     "entityType": "1",
+    "sortOrder": "4",
+    "entityIdParent": "83096270",
     "titleTextEncoded": "Cuisinart-Coffeemaker-with-Hot-Water-System-CHW-14-Demo-Video",
     "category": "",
     "duration": 247,
@@ -37,7 +39,13 @@
         "views": "7784"
     },
     "transcripts": "",
-    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2017-11-17\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "engagement_score": {
+                "lastUpdatedDate": "2017-11-17"
+            }
+        }
+    },
     "tvp_profiles": [
         "18",
         "9",
