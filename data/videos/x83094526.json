@@ -20,6 +20,8 @@
     "id": "83094526",
     "loginId": "1758799",
     "entityType": "1",
+    "sortOrder": "6",
+    "entityIdParent": "66133906",
     "titleTextEncoded": "Making-a-Mochaccino-with-the-Ninja-Coffee-Bar",
     "category": "",
     "duration": 129,
@@ -37,7 +39,14 @@
         "views": "22624"
     },
     "transcripts": "",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-11-17\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-11-17"
+            }
+        }
+    },
     "tvp_profiles": [
         "4",
         "18"

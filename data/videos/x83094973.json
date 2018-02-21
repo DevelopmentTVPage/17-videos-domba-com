@@ -20,6 +20,8 @@
     "id": "83094973",
     "loginId": "1758799",
     "entityType": "1",
+    "sortOrder": "4",
+    "entityIdParent": "66133906",
     "titleTextEncoded": "Mr-Coffee-Single-Cup-Coffeemaker-with-Built-in-Grinder-Raspberries-Cream-Iced-Coffee",
     "category": "",
     "duration": 35,
@@ -37,7 +39,13 @@
         "views": "381"
     },
     "transcripts": "",
-    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2017-11-17\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "engagement_score": {
+                "lastUpdatedDate": "2017-11-17"
+            }
+        }
+    },
     "tvp_profiles": [
         "18",
         "4",
